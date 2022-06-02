@@ -13,6 +13,7 @@ YouTube Creators:
 # Resources
 Using https://obsidian.md to view the files and make connections.
 
+Using https://github.com/petermeglis/youtube-synthesizer to get YouTube transcriptions.
+
 # Check Out
 Twitter Brain: https://github.com/petermeglis/twitter-brain
-
